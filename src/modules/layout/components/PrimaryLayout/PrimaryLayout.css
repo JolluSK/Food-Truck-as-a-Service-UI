@@ -1,0 +1,16 @@
+.primary-layout {
+    font-family: "Open Sans", sans-serif !important;
+    width: 100%;
+    height: 100%;
+}
+
+.layout {
+    /* background-color: #f8f9fd; */
+    /* margin-top: 60px; */
+}
+
+.container {
+    height: calc(100vh-60px);
+    padding: 20px 10px 0 !important;
+    overflow-x: hidden;
+}
